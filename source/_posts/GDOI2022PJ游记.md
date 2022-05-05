@@ -1,10 +1,8 @@
 ---
 title: GDOI2022PJ游记
 date: 2022/4/19 12:29:25
-tags: 
-- GDOI2022
-categories: 
-- [信息学]
+tags: GDOI2022
+categories: 信息学
 ---
 
 今年第一次参加GDOI。参加了两天的普及组，还好周末作业不多，否则就写不完作业了。
